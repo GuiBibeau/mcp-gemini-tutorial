@@ -33,7 +33,7 @@ This tutorial demonstrates how to:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mcp-tutorial.git
+git clone https://github.com/guibibeau/mcp-tutorial.git
 cd mcp-tutorial
 
 # Install dependencies
